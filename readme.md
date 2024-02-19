@@ -7,8 +7,8 @@
 
 **Western Kentucky University**
 *Bachelor's Degree, Computer Science, 2009 -2013*
-Minor in Buisness Administration
-Activities and societies: Pi Kappa Alpha; Association for Computing Machinery (ACM); study abroad
+- Minor in Buisness Administration
+- Activities and societies: Pi Kappa Alpha; Association for Computing Machinery (ACM); study abroad
 
 
 <h2>Professional Experience</h2>

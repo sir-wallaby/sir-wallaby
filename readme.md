@@ -15,25 +15,29 @@
 
 <table>
     <tr>
-        <td> <img src="https://media.licdn.com/dms/image/C560BAQHZ9xYomLW7zg/company-logo_100_100/0/1630658255326/salesforce_logo?e=1716422400&v=beta&t=qfOVN0vggIJ2Hnb5u_FaXbUAptmPWu9TlGMcVabNO98" alt="salesforce-icon" style="width:128px;height:128px;"> </td>
-        <td> <img src="https://media.licdn.com/dms/image/C560BAQHZ9xYomLW7zg/company-logo_100_100/0/1630658255326/salesforce_logo?e=1716422400&v=beta&t=qfOVN0vggIJ2Hnb5u_FaXbUAptmPWu9TlGMcVabNO98" alt="salesforce-icon" style="width:128px;height:128px;"> </td>
-        <td> <img src="https://media.licdn.com/dms/image/C560BAQHZ9xYomLW7zg/company-logo_100_100/0/1630658255326/salesforce_logo?e=1716422400&v=beta&t=qfOVN0vggIJ2Hnb5u_FaXbUAptmPWu9TlGMcVabNO98" alt="salesforce-icon" style="width:128px;height:128px;"> </td>
+        <td> <img src="https://media.licdn.com/dms/image/C560BAQHZ9xYomLW7zg/company-logo_100_100/0/1630658255326/salesforce_logo?e=1716422400&v=beta&t=qfOVN0vggIJ2Hnb5u_FaXbUAptmPWu9TlGMcVabNO98" alt="salesforce-icon" style="width:128px;height:128px;padding-left: 25%;"> </td>
+        <td> <img src="https://media.licdn.com/dms/image/C560BAQHZ9xYomLW7zg/company-logo_100_100/0/1630658255326/salesforce_logo?e=1716422400&v=beta&t=qfOVN0vggIJ2Hnb5u_FaXbUAptmPWu9TlGMcVabNO98" alt="salesforce-icon" style="width:128px;height:128px;padding-left: 25%;"> </td>
+        <td> <img src="https://media.licdn.com/dms/image/C560BAQHZ9xYomLW7zg/company-logo_100_100/0/1630658255326/salesforce_logo?e=1716422400&v=beta&t=qfOVN0vggIJ2Hnb5u_FaXbUAptmPWu9TlGMcVabNO98" alt="salesforce-icon" style="width:128px;height:128px;padding-left: 25%;"> </td>
     </tr>
     <tr>
-        <td> **Salesforce Certified Administrator (SCA)**
-                *Issued Apr 2023*
-                - Credential ID 3330878
-        </td>
-        <td> **Salesforce Certified Platform App Builder Certification**
-                *Issued Apr 2021*
-                - Credential ID 22037651
-        </td>
-        <td> **Salesforce Certified Platform Developer I**
-                *Issued Nov 2019*
-                - Credential ID 20617293
-        </td>
-    <tr>
-</table>
+    <td> 
+        <strong>Salesforce Certified Administrator (SCA)</strong>
+        <p>Issued Apr 2023</p>
+        <p>Credential ID 3330878</p>
+    </td>
+    <td> 
+        <strong>Salesforce Certified Platform App Builder Certification</strong>
+        <p>Issued Apr 2021</p>
+        <p>Credential ID 22037651</p>
+    </td>
+    <td> 
+        <strong>Salesforce Certified Platform Developer I</strong>
+        <p>Issued Nov 2019</p>
+        <p>Credential ID 20617293</p>
+    </td>
+</tr>
+
+</table>~
 
 
 **Salesforce Developer - Passage Technology**

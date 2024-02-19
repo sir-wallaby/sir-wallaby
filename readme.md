@@ -13,21 +13,27 @@
 
 <h2>Professional Experience</h2>
 
-
-<img src="https://media.licdn.com/dms/image/C560BAQHZ9xYomLW7zg/company-logo_100_100/0/1630658255326/salesforce_logo?e=1716422400&v=beta&t=qfOVN0vggIJ2Hnb5u_FaXbUAptmPWu9TlGMcVabNO98" alt="salesforce-icon">
-**Salesforce Certified Administrator (SCA)**
-*Issued Apr 2023*
-- Credential ID 3330878
-
-<img src="https://media.licdn.com/dms/image/C560BAQHZ9xYomLW7zg/company-logo_100_100/0/1630658255326/salesforce_logo?e=1716422400&v=beta&t=qfOVN0vggIJ2Hnb5u_FaXbUAptmPWu9TlGMcVabNO98" alt="salesforce-icon">
-**Salesforce Certified Platform App Builder Certification**
-*Issued Apr 2021*
-- Credential ID 22037651
-
-<img src="https://media.licdn.com/dms/image/C560BAQHZ9xYomLW7zg/company-logo_100_100/0/1630658255326/salesforce_logo?e=1716422400&v=beta&t=qfOVN0vggIJ2Hnb5u_FaXbUAptmPWu9TlGMcVabNO98" alt="salesforce-icon">
-**Salesforce Certified Platform Developer I**
-*Issued Nov 2019*
-- Credential ID 20617293
+<table>
+    <tr>
+        <td> <img src="https://media.licdn.com/dms/image/C560BAQHZ9xYomLW7zg/company-logo_100_100/0/1630658255326/salesforce_logo?e=1716422400&v=beta&t=qfOVN0vggIJ2Hnb5u_FaXbUAptmPWu9TlGMcVabNO98" alt="salesforce-icon" style="width:128px;height:128px;"> </td>
+        <td> <img src="https://media.licdn.com/dms/image/C560BAQHZ9xYomLW7zg/company-logo_100_100/0/1630658255326/salesforce_logo?e=1716422400&v=beta&t=qfOVN0vggIJ2Hnb5u_FaXbUAptmPWu9TlGMcVabNO98" alt="salesforce-icon" style="width:128px;height:128px;"> </td>
+        <td> <img src="https://media.licdn.com/dms/image/C560BAQHZ9xYomLW7zg/company-logo_100_100/0/1630658255326/salesforce_logo?e=1716422400&v=beta&t=qfOVN0vggIJ2Hnb5u_FaXbUAptmPWu9TlGMcVabNO98" alt="salesforce-icon" style="width:128px;height:128px;"> </td>
+    </tr>
+    <tr>
+        <td> **Salesforce Certified Administrator (SCA)**
+                *Issued Apr 2023*
+                - Credential ID 3330878
+        </td>
+        <td> **Salesforce Certified Platform App Builder Certification**
+                *Issued Apr 2021*
+                - Credential ID 22037651
+        </td>
+        <td> **Salesforce Certified Platform Developer I**
+                *Issued Nov 2019*
+                - Credential ID 20617293
+        </td>
+    <tr>
+</table>
 
 
 **Salesforce Developer - Passage Technology**

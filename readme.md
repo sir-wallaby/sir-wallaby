@@ -13,6 +13,23 @@
 
 <h2>Professional Experience</h2>
 
+
+<img src="https://media.licdn.com/dms/image/C560BAQHZ9xYomLW7zg/company-logo_100_100/0/1630658255326/salesforce_logo?e=1716422400&v=beta&t=qfOVN0vggIJ2Hnb5u_FaXbUAptmPWu9TlGMcVabNO98" alt="salesforce-icon">
+**Salesforce Certified Administrator (SCA)**
+*Issued Apr 2023*
+- Credential ID 3330878
+
+<img src="https://media.licdn.com/dms/image/C560BAQHZ9xYomLW7zg/company-logo_100_100/0/1630658255326/salesforce_logo?e=1716422400&v=beta&t=qfOVN0vggIJ2Hnb5u_FaXbUAptmPWu9TlGMcVabNO98" alt="salesforce-icon">
+**Salesforce Certified Platform App Builder Certification**
+*Issued Apr 2021*
+- Credential ID 22037651
+
+<img src="https://media.licdn.com/dms/image/C560BAQHZ9xYomLW7zg/company-logo_100_100/0/1630658255326/salesforce_logo?e=1716422400&v=beta&t=qfOVN0vggIJ2Hnb5u_FaXbUAptmPWu9TlGMcVabNO98" alt="salesforce-icon">
+**Salesforce Certified Platform Developer I**
+*Issued Nov 2019*
+- Credential ID 20617293
+
+
 **Salesforce Developer - Passage Technology**
 *Jan 2018 - Present*
 - Develop product capabilities using Force.com, APEX, VisualForce, and other technologies.
